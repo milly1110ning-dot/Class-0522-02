@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Class-0522-02\Class-0522-02\bin\Debug\net10.0\Class-0522-02.exe
+C:\Users\Administrator\Desktop\Class-0522-02\Class-0522-02\bin\Debug\net10.0\Class-0522-02.deps.json
+C:\Users\Administrator\Desktop\Class-0522-02\Class-0522-02\bin\Debug\net10.0\Class-0522-02.runtimeconfig.json
+C:\Users\Administrator\Desktop\Class-0522-02\Class-0522-02\bin\Debug\net10.0\Class-0522-02.dll
+C:\Users\Administrator\Desktop\Class-0522-02\Class-0522-02\bin\Debug\net10.0\Class-0522-02.pdb
+C:\Users\Administrator\Desktop\Class-0522-02\Class-0522-02\obj\Debug\net10.0\Class-0522-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Class-0522-02\Class-0522-02\obj\Debug\net10.0\Class-0522-02.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Class-0522-02\Class-0522-02\obj\Debug\net10.0\Class-0522-02.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Class-0522-02\Class-0522-02\obj\Debug\net10.0\Class-0522-02.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Class-0522-02\Class-0522-02\obj\Debug\net10.0\Class-0522-02.dll
+C:\Users\Administrator\Desktop\Class-0522-02\Class-0522-02\obj\Debug\net10.0\refint\Class-0522-02.dll
+C:\Users\Administrator\Desktop\Class-0522-02\Class-0522-02\obj\Debug\net10.0\Class-0522-02.pdb
+C:\Users\Administrator\Desktop\Class-0522-02\Class-0522-02\obj\Debug\net10.0\Class-0522-02.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Class-0522-02\Class-0522-02\obj\Debug\net10.0\ref\Class-0522-02.dll
